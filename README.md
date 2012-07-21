@@ -1,4 +1,4 @@
-deegree-repository-browser
-==========================
+deegree workspace browser android app
+=====================================
 
-deegree-repository-browser
+A simple android app to list currently available deegree workspaces.
